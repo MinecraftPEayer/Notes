@@ -54,8 +54,8 @@
         * $\ell$: 線長
         * $v$: 移動速度
 ## 6-3/6-4 電感
-1. <img src="https://resources.mrchip.cn/storage/images/20220321/223db2de563c29c766a6679c6a33ea49.png" width=75/> 電感器 (<font color="red">$L$</font> ($H$, 亨利))
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTtVi3rUUrM_aIYa_PQ9dJNaoYTnOIm7tv6Rp1WSkzgQEbP4wOwyAAlea9rfgxXzIq7DI&usqp=CAU" width=75 height=40> 可變電感器
+1. <img src="https://raw.githubusercontent.com/MinecraftPEayer/notes/master/assets/BasicElectricity/CH6/1.png" width=75/> 電感器 (<font color="red">$L$</font> ($H$, 亨利))
+<img src="https://raw.githubusercontent.com/MinecraftPEayer/notes/master/assets/BasicElectricity/CH6/2.png" width=75 height=40> 可變電感器
 2. $$e=N\frac{ΔΦ}{Δt}=L\frac{Δi}{Δt}$$
 3. $$N^2=LR\quad L=\frac{N^2}{R}=\frac{\mu AN^2}{\ell}\quad R=\frac{\ell}{\mu A}$$
 4. $$IL=et=NΦ$$
